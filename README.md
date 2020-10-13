@@ -1,5 +1,5 @@
 # Rubicks_Cube
-Here this rubicks cube project is done using **Processing** IDE.
+Here this rubicks cube project is done using **Processing**.
 As we are making it as a 3D rotation cude ... we are using **PeasyCam** to get the visualization.
 
 <p align="center"><img src="RubiksCube/Capture1.PNG"></p>
